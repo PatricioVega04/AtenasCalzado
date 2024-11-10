@@ -1,0 +1,385 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Estudiante\\Desktop\\Jesi\\Videos\\lab4\\AtenasCalzado\\AtenasCalzado\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\AtenasCalzado.bundle.scp.css",
+      "PackagePath": "staticwebassets\\AtenasCalzado.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Estudiante\\Desktop\\Jesi\\Videos\\lab4\\AtenasCalzado\\AtenasCalzado\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\Estudiante\\Desktop\\Jesi\\Videos\\lab4\\AtenasCalzado\\AtenasCalzado\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Estudiante\\Desktop\\Jesi\\Videos\\lab4\\AtenasCalzado\\AtenasCalzado\\wwwroot\\imagenes\\logo atenas.jfif",
+      "PackagePath": "staticwebassets\\imagenes\\logo atenas.jfif"
+    },
+    {
+      "Id": "C:\\Users\\Estudiante\\Desktop\\Jesi\\Videos\\lab4\\AtenasCalzado\\AtenasCalzado\\wwwroot\\imagenes\\logo insta.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\logo insta.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Estudiante\\Desktop\\Jesi\\Videos\\lab4\\AtenasCalzado\\AtenasCalzado\\wwwroot\\imagenes\\logoface.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\logoface.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Estudiante\\Desktop\\Jesi\\Videos\\lab4\\AtenasCalzado\\AtenasCalzado\\wwwroot\\imagenes\\logoo.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\logoo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Estudiante\\Desktop\\Jesi\\Videos\\lab4\\AtenasCalzado\\AtenasCalzado\\wwwroot\\imagenes\\logowpp.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\logowpp.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Estudiante\\Desktop\\Jesi\\Videos\\lab4\\AtenasCalzado\\AtenasCalzado\\wwwroot\\imagenes\\productos\\0bf57fbbfa5643b2b82474df169fc2aa.jpeg",
+      "PackagePath": "staticwebassets\\imagenes\\productos\\0bf57fbbfa5643b2b82474df169fc2aa.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Estudiante\\Desktop\\Jesi\\Videos\\lab4\\AtenasCalzado\\AtenasCalzado\\wwwroot\\imagenes\\productos\\14ecd73eff5e47abaa28cbbe0519093a.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\productos\\14ecd73eff5e47abaa28cbbe0519093a.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Estudiante\\Desktop\\Jesi\\Videos\\lab4\\AtenasCalzado\\AtenasCalzado\\wwwroot\\imagenes\\productos\\18de5aacb90941acaff4e6edf12a1c25.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\productos\\18de5aacb90941acaff4e6edf12a1c25.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Estudiante\\Desktop\\Jesi\\Videos\\lab4\\AtenasCalzado\\AtenasCalzado\\wwwroot\\imagenes\\productos\\242275aa5bf441569192f4f570a4d901.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\productos\\242275aa5bf441569192f4f570a4d901.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Estudiante\\Desktop\\Jesi\\Videos\\lab4\\AtenasCalzado\\AtenasCalzado\\wwwroot\\imagenes\\productos\\38a32ae56f574a439d7d56c41054c7c6.jfif",
+      "PackagePath": "staticwebassets\\imagenes\\productos\\38a32ae56f574a439d7d56c41054c7c6.jfif"
+    },
+    {
+      "Id": "C:\\Users\\Estudiante\\Desktop\\Jesi\\Videos\\lab4\\AtenasCalzado\\AtenasCalzado\\wwwroot\\imagenes\\productos\\50b28821b2a147809577a307093335c6.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\productos\\50b28821b2a147809577a307093335c6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Estudiante\\Desktop\\Jesi\\Videos\\lab4\\AtenasCalzado\\AtenasCalzado\\wwwroot\\imagenes\\productos\\5d52152c00b94472b611081c835bdfcc.jpeg",
+      "PackagePath": "staticwebassets\\imagenes\\productos\\5d52152c00b94472b611081c835bdfcc.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Estudiante\\Desktop\\Jesi\\Videos\\lab4\\AtenasCalzado\\AtenasCalzado\\wwwroot\\imagenes\\productos\\5eb89c27f6b443ada46a08a8f137a1a9.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\productos\\5eb89c27f6b443ada46a08a8f137a1a9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Estudiante\\Desktop\\Jesi\\Videos\\lab4\\AtenasCalzado\\AtenasCalzado\\wwwroot\\imagenes\\productos\\6052f6f96f894e6881c2eb49bf257cc6.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\productos\\6052f6f96f894e6881c2eb49bf257cc6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Estudiante\\Desktop\\Jesi\\Videos\\lab4\\AtenasCalzado\\AtenasCalzado\\wwwroot\\imagenes\\productos\\6142ab4db95e4848922621721501691c.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\productos\\6142ab4db95e4848922621721501691c.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Estudiante\\Desktop\\Jesi\\Videos\\lab4\\AtenasCalzado\\AtenasCalzado\\wwwroot\\imagenes\\productos\\630e4f8430e24d1dbab2b4f56606c8d6.jfif",
+      "PackagePath": "staticwebassets\\imagenes\\productos\\630e4f8430e24d1dbab2b4f56606c8d6.jfif"
+    },
+    {
+      "Id": "C:\\Users\\Estudiante\\Desktop\\Jesi\\Videos\\lab4\\AtenasCalzado\\AtenasCalzado\\wwwroot\\imagenes\\productos\\68e39fac479a4515bf5b5510ff4de88a.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\productos\\68e39fac479a4515bf5b5510ff4de88a.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Estudiante\\Desktop\\Jesi\\Videos\\lab4\\AtenasCalzado\\AtenasCalzado\\wwwroot\\imagenes\\productos\\86741c3c07354166adb0f2243440b6ce.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\productos\\86741c3c07354166adb0f2243440b6ce.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Estudiante\\Desktop\\Jesi\\Videos\\lab4\\AtenasCalzado\\AtenasCalzado\\wwwroot\\imagenes\\productos\\8ae6cd9ebe294802b4523a1ae25b3eb6.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\productos\\8ae6cd9ebe294802b4523a1ae25b3eb6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Estudiante\\Desktop\\Jesi\\Videos\\lab4\\AtenasCalzado\\AtenasCalzado\\wwwroot\\imagenes\\productos\\b1e897aa2d504df1901a0de134f7eeeb.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\productos\\b1e897aa2d504df1901a0de134f7eeeb.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Estudiante\\Desktop\\Jesi\\Videos\\lab4\\AtenasCalzado\\AtenasCalzado\\wwwroot\\imagenes\\productos\\b6ad6ecde06b475cb82291e742577bab.jfif",
+      "PackagePath": "staticwebassets\\imagenes\\productos\\b6ad6ecde06b475cb82291e742577bab.jfif"
+    },
+    {
+      "Id": "C:\\Users\\Estudiante\\Desktop\\Jesi\\Videos\\lab4\\AtenasCalzado\\AtenasCalzado\\wwwroot\\imagenes\\productos\\c8f9be1f802b457b840d8387fa1000f0.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\productos\\c8f9be1f802b457b840d8387fa1000f0.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Estudiante\\Desktop\\Jesi\\Videos\\lab4\\AtenasCalzado\\AtenasCalzado\\wwwroot\\imagenes\\productos\\ce0c099d10af4133bf5a286324c9e03f.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\productos\\ce0c099d10af4133bf5a286324c9e03f.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Estudiante\\Desktop\\Jesi\\Videos\\lab4\\AtenasCalzado\\AtenasCalzado\\wwwroot\\imagenes\\productos\\ddd1376c9fc443ca86743adb7ddc6dfb.jfif",
+      "PackagePath": "staticwebassets\\imagenes\\productos\\ddd1376c9fc443ca86743adb7ddc6dfb.jfif"
+    },
+    {
+      "Id": "C:\\Users\\Estudiante\\Desktop\\Jesi\\Videos\\lab4\\AtenasCalzado\\AtenasCalzado\\wwwroot\\imagenes\\productos\\df923c71d333487893d88fe8ca439cd6.jfif",
+      "PackagePath": "staticwebassets\\imagenes\\productos\\df923c71d333487893d88fe8ca439cd6.jfif"
+    },
+    {
+      "Id": "C:\\Users\\Estudiante\\Desktop\\Jesi\\Videos\\lab4\\AtenasCalzado\\AtenasCalzado\\wwwroot\\imagenes\\productos\\e4761fcf62154d79a7f8b7e7047490ad.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\productos\\e4761fcf62154d79a7f8b7e7047490ad.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Estudiante\\Desktop\\Jesi\\Videos\\lab4\\AtenasCalzado\\AtenasCalzado\\wwwroot\\imagenes\\productos\\e774b46a8b52479a805b15926b3205f9.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\productos\\e774b46a8b52479a805b15926b3205f9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Estudiante\\Desktop\\Jesi\\Videos\\lab4\\AtenasCalzado\\AtenasCalzado\\wwwroot\\imagenes\\productos\\e9c143800131473b9a31c4fdc8d9dc9f.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\productos\\e9c143800131473b9a31c4fdc8d9dc9f.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Estudiante\\Desktop\\Jesi\\Videos\\lab4\\AtenasCalzado\\AtenasCalzado\\wwwroot\\imagenes\\productos\\f0a123a00b3149bca26dcb1c41e88e93.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\productos\\f0a123a00b3149bca26dcb1c41e88e93.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Estudiante\\Desktop\\Jesi\\Videos\\lab4\\AtenasCalzado\\AtenasCalzado\\wwwroot\\imagenes\\productos\\fbea11c4eeb744bdbebd556bdbe34a8b.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\productos\\fbea11c4eeb744bdbebd556bdbe34a8b.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Estudiante\\Desktop\\Jesi\\Videos\\lab4\\AtenasCalzado\\AtenasCalzado\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\Estudiante\\Desktop\\Jesi\\Videos\\lab4\\AtenasCalzado\\AtenasCalzado\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\Estudiante\\Desktop\\Jesi\\Videos\\lab4\\AtenasCalzado\\AtenasCalzado\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Estudiante\\Desktop\\Jesi\\Videos\\lab4\\AtenasCalzado\\AtenasCalzado\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Estudiante\\Desktop\\Jesi\\Videos\\lab4\\AtenasCalzado\\AtenasCalzado\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Estudiante\\Desktop\\Jesi\\Videos\\lab4\\AtenasCalzado\\AtenasCalzado\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Estudiante\\Desktop\\Jesi\\Videos\\lab4\\AtenasCalzado\\AtenasCalzado\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Estudiante\\Desktop\\Jesi\\Videos\\lab4\\AtenasCalzado\\AtenasCalzado\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Estudiante\\Desktop\\Jesi\\Videos\\lab4\\AtenasCalzado\\AtenasCalzado\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Estudiante\\Desktop\\Jesi\\Videos\\lab4\\AtenasCalzado\\AtenasCalzado\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Estudiante\\Desktop\\Jesi\\Videos\\lab4\\AtenasCalzado\\AtenasCalzado\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Estudiante\\Desktop\\Jesi\\Videos\\lab4\\AtenasCalzado\\AtenasCalzado\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Estudiante\\Desktop\\Jesi\\Videos\\lab4\\AtenasCalzado\\AtenasCalzado\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Estudiante\\Desktop\\Jesi\\Videos\\lab4\\AtenasCalzado\\AtenasCalzado\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Estudiante\\Desktop\\Jesi\\Videos\\lab4\\AtenasCalzado\\AtenasCalzado\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Estudiante\\Desktop\\Jesi\\Videos\\lab4\\AtenasCalzado\\AtenasCalzado\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Estudiante\\Desktop\\Jesi\\Videos\\lab4\\AtenasCalzado\\AtenasCalzado\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Estudiante\\Desktop\\Jesi\\Videos\\lab4\\AtenasCalzado\\AtenasCalzado\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Estudiante\\Desktop\\Jesi\\Videos\\lab4\\AtenasCalzado\\AtenasCalzado\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Estudiante\\Desktop\\Jesi\\Videos\\lab4\\AtenasCalzado\\AtenasCalzado\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Estudiante\\Desktop\\Jesi\\Videos\\lab4\\AtenasCalzado\\AtenasCalzado\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Estudiante\\Desktop\\Jesi\\Videos\\lab4\\AtenasCalzado\\AtenasCalzado\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Estudiante\\Desktop\\Jesi\\Videos\\lab4\\AtenasCalzado\\AtenasCalzado\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Estudiante\\Desktop\\Jesi\\Videos\\lab4\\AtenasCalzado\\AtenasCalzado\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Estudiante\\Desktop\\Jesi\\Videos\\lab4\\AtenasCalzado\\AtenasCalzado\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Estudiante\\Desktop\\Jesi\\Videos\\lab4\\AtenasCalzado\\AtenasCalzado\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Estudiante\\Desktop\\Jesi\\Videos\\lab4\\AtenasCalzado\\AtenasCalzado\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Estudiante\\Desktop\\Jesi\\Videos\\lab4\\AtenasCalzado\\AtenasCalzado\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Estudiante\\Desktop\\Jesi\\Videos\\lab4\\AtenasCalzado\\AtenasCalzado\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Estudiante\\Desktop\\Jesi\\Videos\\lab4\\AtenasCalzado\\AtenasCalzado\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Estudiante\\Desktop\\Jesi\\Videos\\lab4\\AtenasCalzado\\AtenasCalzado\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Estudiante\\Desktop\\Jesi\\Videos\\lab4\\AtenasCalzado\\AtenasCalzado\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Estudiante\\Desktop\\Jesi\\Videos\\lab4\\AtenasCalzado\\AtenasCalzado\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Estudiante\\Desktop\\Jesi\\Videos\\lab4\\AtenasCalzado\\AtenasCalzado\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Estudiante\\Desktop\\Jesi\\Videos\\lab4\\AtenasCalzado\\AtenasCalzado\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Estudiante\\Desktop\\Jesi\\Videos\\lab4\\AtenasCalzado\\AtenasCalzado\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Estudiante\\Desktop\\Jesi\\Videos\\lab4\\AtenasCalzado\\AtenasCalzado\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Estudiante\\Desktop\\Jesi\\Videos\\lab4\\AtenasCalzado\\AtenasCalzado\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Estudiante\\Desktop\\Jesi\\Videos\\lab4\\AtenasCalzado\\AtenasCalzado\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Estudiante\\Desktop\\Jesi\\Videos\\lab4\\AtenasCalzado\\AtenasCalzado\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Estudiante\\Desktop\\Jesi\\Videos\\lab4\\AtenasCalzado\\AtenasCalzado\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Estudiante\\Desktop\\Jesi\\Videos\\lab4\\AtenasCalzado\\AtenasCalzado\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Estudiante\\Desktop\\Jesi\\Videos\\lab4\\AtenasCalzado\\AtenasCalzado\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Estudiante\\Desktop\\Jesi\\Videos\\lab4\\AtenasCalzado\\AtenasCalzado\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Estudiante\\Desktop\\Jesi\\Videos\\lab4\\AtenasCalzado\\AtenasCalzado\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Estudiante\\Desktop\\Jesi\\Videos\\lab4\\AtenasCalzado\\AtenasCalzado\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Estudiante\\Desktop\\Jesi\\Videos\\lab4\\AtenasCalzado\\AtenasCalzado\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Estudiante\\Desktop\\Jesi\\Videos\\lab4\\AtenasCalzado\\AtenasCalzado\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Estudiante\\Desktop\\Jesi\\Videos\\lab4\\AtenasCalzado\\AtenasCalzado\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Estudiante\\Desktop\\Jesi\\Videos\\lab4\\AtenasCalzado\\AtenasCalzado\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Estudiante\\Desktop\\Jesi\\Videos\\lab4\\AtenasCalzado\\AtenasCalzado\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Estudiante\\Desktop\\Jesi\\Videos\\lab4\\AtenasCalzado\\AtenasCalzado\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Estudiante\\Desktop\\Jesi\\Videos\\lab4\\AtenasCalzado\\AtenasCalzado\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Estudiante\\Desktop\\Jesi\\Videos\\lab4\\AtenasCalzado\\AtenasCalzado\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Estudiante\\Desktop\\Jesi\\Videos\\lab4\\AtenasCalzado\\AtenasCalzado\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Estudiante\\Desktop\\Jesi\\Videos\\lab4\\AtenasCalzado\\AtenasCalzado\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Estudiante\\Desktop\\Jesi\\Videos\\lab4\\AtenasCalzado\\AtenasCalzado\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Estudiante\\Desktop\\Jesi\\Videos\\lab4\\AtenasCalzado\\AtenasCalzado\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.AtenasCalzado.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.AtenasCalzado.props",
+      "PackagePath": "build\\AtenasCalzado.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.AtenasCalzado.props",
+      "PackagePath": "buildMultiTargeting\\AtenasCalzado.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.AtenasCalzado.props",
+      "PackagePath": "buildTransitive\\AtenasCalzado.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

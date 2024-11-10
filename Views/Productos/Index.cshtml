@@ -1,0 +1,100 @@
+﻿@model AtenasCalzado.ViewsModels.ProductosViewModels
+
+@{
+    ViewData["Title"] = "";
+}
+
+<h1 class="text-center mb-4">Listado de productos</h1>
+
+<form asp-action="Index" method="get">
+    <p class="text-center">
+        Nombre: <input type="text" asp-for="@Model.Nombre" name="busqueda" placeholder="Ingresa el nombre" />
+        Categoria:
+        <select name="CategoriaId" asp-items="ViewBag.CategoriaId">
+            <option value=""> </option>
+            <option value="">Todo</option>   </select>
+        Marca:
+        <select name="MarcaId" asp-items="ViewBag.MarcaId">
+            <option value=""> </option>
+
+            <option value="">Todo</option>
+        </select>
+        <input type="submit" value="Filtrar"/>
+    </p>
+
+</form> 
+
+
+<div class="row">
+    @foreach (var item in Model.productos)
+    {
+        <div class="col-md-3">
+            <div class="card mb-3">
+                <img src="~/imagenes/productos/@item.Imagen" class="card-img-top" alt="@item.Nombre" style="max-height: 200px; object-fit: cover;" />
+                <div class="card-body">
+                    <h5 class="card-title">@item.Nombre</h5>
+                    <p class="card-text">Precio: $@item.Precio</p>
+                    <p class="card-text"> Talles disponibles: 
+                        @item.Descripcion</p>
+                   @*  <p class="card-text">Stock: @item.Stock</p> *@
+                    <p class="card-text">Categoría: @item.categoria.Descripcion</p>
+                    <p class="card-text">Marca: @item.marca.Descripcion</p>
+                    <a asp-action="Details" asp-route-id="@item.Id" class="btn btn-info >">Detalles</a>
+                    @if (User.IsInRole("Admin"))
+                    {
+                        <a asp-action="Edit" asp-route-id="@item.Id" class="btn btn-primary">Editar</a>
+                       
+                        <a asp-action="Delete" asp-route-id="@item.Id" class="btn btn-danger">Borrar</a>
+                    }
+
+                </div>
+            </div>
+        </div>
+    }
+</div>
+<nav aria-label="...">
+    <ul class="pagination justify-content-center">
+        <li class="page-item @(Model.Paginador.PaginaActual == 1 ? "disabled" : "")">
+            <a class="page-link" asp-route-pagina="@(Model.Paginador.PaginaActual - 1)" tabindex="-1">Anterior</a>
+        </li>
+        @if (Model.Paginador.PaginaActual > 2)
+        {
+            <li class="page-item"><a class="page-link" asp-route-pagina="1">1</a></li>
+        }
+        @if (Model.Paginador.PaginaActual > 1)
+        {
+            <li class="page-item"><a class="page-link" asp-route-pagina="@(Model.Paginador.PaginaActual - 1)">@(Model.Paginador.PaginaActual - 1)</a></li>
+        }
+        <li class="page-item active">
+            <a class="page-link" asp-route-pagina="@Model.Paginador.PaginaActual">@Model.Paginador.PaginaActual<span class="sr-only"></span></a>
+        </li>
+        @if (Model.Paginador.PaginaActual < Model.Paginador.TotalPagina)
+        {
+            <li class="page-item"><a class="page-link" asp-route-pagina="@(Model.Paginador.PaginaActual + 1)">@(Model.Paginador.PaginaActual + 1)</a></li>
+        }
+        @if (Model.Paginador.PaginaActual < (Model.Paginador.TotalPagina - 1))
+        {
+            <li class="page-item"><a class="page-link" asp-route-pagina="@(Model.Paginador.TotalPagina)">@(Model.Paginador.TotalPagina)</a></li>
+        }
+        <li class="page-item @(Model.Paginador.PaginaActual == Model.Paginador.TotalPagina ? "disabled" : "")">
+            <a class="page-link" asp-route-pagina="@(Model.Paginador.PaginaActual + 1)">Siguiente</a>
+        </li>
+    </ul>
+</nav>
+
+
+@* TotalPaginas:@Model.Paginador.TotalPagina *@
+<br>
+@if (User.IsInRole("Admin"))
+{
+    <p>
+        <a asp-action="Create" class="btn btn-success">Agregar Calzado</a>
+    </p>
+    <a asp-action="ExportToExcel" class="btn btn-success">Exportar a Excel</a>
+
+}
+
+
+
+
+ 

@@ -1,0 +1,49 @@
+﻿@model AtenasCalzado.Models.Producto
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+
+<div class="container">
+    <div class="card mt-4">
+        <div class="card-body" >
+            <h4 class="text-center">Detalles</h4>
+            <hr />
+            <div class="text-center mb-3">
+                <img src="@Html.DisplayFor(model => model.Imagen)" alt="Imagen del producto" class="img-fluid" />
+            </div>
+            <dl class="row" class="row mx-auto">
+                
+                <dd class="col-sm-9">
+                    @Html.DisplayFor(model => model.Nombre)
+                
+                <dd class="col-sm-9">                 
+                   $@Html.DisplayFor(model => model.Precio)
+                </dd>
+                
+                <dd class="col-sm-9">
+                   Talles: @Html.DisplayFor(model => model.Descripcion)
+                </dd>               
+                
+                <dd class="col-sm-9">
+                    Categoria: @Html.DisplayFor(model => model.categoria.Descripcion) 
+                </dd>
+           
+                <dd class="col-sm-9">
+                 Marca: @Html.DisplayFor(model => model.marca.Descripcion) 
+                </dd>
+            </dl>
+            <div class="text-center mt-4">
+                @if (User.IsInRole("Admin"))
+                {
+                    <a asp-action="Edit" asp-route-id="@Model?.Id" class="btn btn-warning">Editar</a>
+                }
+                <a asp-action="Index" class="btn btn-secondary">Volver al listado</a>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<

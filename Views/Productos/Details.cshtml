@@ -7,13 +7,18 @@
 
 <div class="container">
     <div class="card mt-4">
-        <div class="card-body" >
+        <div class ="card-body text-center" >
             <h4 class="text-center">Detalles</h4>
             <hr />
-            <div class="text-center mb-3">
-                <img src="@Html.DisplayFor(model => model.Imagen)" alt="Imagen del producto" class="img-fluid" />
-            </div>
-            <dl class="row" class="row mx-auto">
+              @if (!string.IsNullOrEmpty(Model.Imagen))
+                 {
+                      <img src="~/imagenes/productos/@Model.Imagen" alt="Imagen del producto" style="max-width: 300px; max-height: 300px;" />
+                 } 
+              else
+                 {
+                       <p>Imagen no disponible</p>
+                 }
+            <dl class="row justify-content-center mx-auto mt-4">
                 
                 <dd class="col-sm-9">
                     @Html.DisplayFor(model => model.Nombre)

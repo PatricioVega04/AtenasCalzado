@@ -10,10 +10,15 @@
 </head>
 <body>
     <header>
-        
-        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white navbar-dorado border-bottom box-shadow mb-3">
+        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light border-bottom box-shadow mb-3" style="background-color: #DAA520 ;">
+
+       
             <div class="container-fluid">
-                <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">Atenas</a>
+                <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">
+                    <img src="~/imagenes/logo atenas.jfif" alt="Atenas Logo" style="max-width:200px; max-height: 75px;">
+                </a>
+
+                @* <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">Atenas</a> *@
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
                         aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
@@ -53,7 +58,7 @@
         </main>
     </div>
 
-    <footer class="border-top footer text-muted">
+    <footer class="border-top footer navbar-dorado-oscuro" style="background-color: #DAA520; color: #000 !important;">
         <div class="text-center">
 
             Todos los derechos reservados - Atenas Calzado - 2024 <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>

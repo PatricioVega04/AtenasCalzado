@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "NRNdX0E5cIC/YRUS5ch1vzDugh2D/SbNzp2eLX39M38=",
+  "Hash": "ryGAlXIPAZMU8Pp9N48vaPh/eXpVRmhX5twURD9rdWE=",
   "Source": "AtenasCalzado",
   "BasePath": "_content/AtenasCalzado",
   "Mode": "Default",
@@ -1326,6 +1326,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\imagenes\\logowpp.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Estudiante\\Desktop\\Jesi\\Videos\\lab4\\AtenasCalzado\\AtenasCalzado\\wwwroot\\imagenes\\lugar.PNG",
+      "SourceId": "AtenasCalzado",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Estudiante\\Desktop\\Jesi\\Videos\\lab4\\AtenasCalzado\\AtenasCalzado\\wwwroot\\",
+      "BasePath": "_content/AtenasCalzado",
+      "RelativePath": "imagenes/lugar.PNG",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagenes\\lugar.PNG"
     },
     {
       "Identity": "C:\\Users\\Estudiante\\Desktop\\Jesi\\Videos\\lab4\\AtenasCalzado\\AtenasCalzado\\wwwroot\\imagenes\\productos\\0bf57fbbfa5643b2b82474df169fc2aa.jpeg",

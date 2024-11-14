@@ -22,14 +22,14 @@ namespace AtenasCalzado.Controllers
             _context = context;
             this.env = env;
         }
-
-        // GET: Productos
         public async Task<IActionResult> Index(string busquedaNombre, int? CategoriaId, int? MarcaId, int pagina = 1)
         {
-            var ApplicationDbContext = _context.productos.Include(a => a.categoria).Include(a => a.marca).Select(a => a);
+            int RegistrosPorPagina = 4;
 
-            
-
+            var ApplicationDbContext = _context.productos
+                .Include(a => a.categoria)
+                .Include(a => a.marca)
+                .AsQueryable();
 
             if (!string.IsNullOrEmpty(busquedaNombre))
             {
@@ -45,31 +45,36 @@ namespace AtenasCalzado.Controllers
             {
                 ApplicationDbContext = ApplicationDbContext.Where(a => a.MarcaId == MarcaId.Value);
             }
+
             ViewData["CategoriaId"] = new SelectList(_context.categorias, "Id", "Descripcion", CategoriaId);
             ViewData["MarcaId"] = new SelectList(_context.marcas, "Id", "Descripcion", MarcaId);
 
-            int RegistrosPorPagina = 3;
-            var registroMostrar = ApplicationDbContext
-                                .Skip((pagina - 1) * RegistrosPorPagina)
-                                .Take(RegistrosPorPagina);
+            int totalRegistros = await ApplicationDbContext.CountAsync();
+
+            var productosPaginados = await ApplicationDbContext
+                .Skip((pagina - 1) * RegistrosPorPagina)
+                .Take(RegistrosPorPagina)
+                .ToListAsync();
 
             ProductosViewModels modelo = new ProductosViewModels()
             {
-                productos = ApplicationDbContext.ToList(),
-                Categorias = new SelectList(_context.categorias, "Id", "descripcion", CategoriaId),
-                Marcas = new SelectList(_context.marcas, "Id", "descripcion", MarcaId),
-                Nombre = busquedaNombre
+                productos = productosPaginados,
+                Categorias = new SelectList(_context.categorias, "Id", "Descripcion", CategoriaId),
+                Marcas = new SelectList(_context.marcas, "Id", "Descripcion", MarcaId),
+                Nombre = busquedaNombre,
+                Paginador = new Paginador()
+                {
+                    PaginaActual = pagina,
+                    RegistrosPorPagina = RegistrosPorPagina,
+                    TotalRegistros = totalRegistros,
+
+                }
             };
 
-            modelo.Paginador.PaginaActual = pagina;
-            modelo.Paginador.RegistrosPorPagina = RegistrosPorPagina;
-            modelo.Paginador.TotalRegistros = await ApplicationDbContext.CountAsync();
-
             return View(modelo);
-
-
-            //return View(await applicationDbContext.ToListAsync());
         }
+
+        
 
         // GET: Productos/Details/5
         public async Task<IActionResult> Details(int? id)
@@ -78,24 +83,7 @@ namespace AtenasCalzado.Controllers
             {
                 return NotFound();
             }
-
-
-            //var archivos = HttpContext.Request.Form.Files;
-            //if (archivos != null && archivos.Count > 0)
-            //{
-            //    var archivoImagen = archivos[0];
-            //    var pathDestino = Path.Combine(env.WebRootPath, "imagenes\\productos");
-            //    if (archivoImagen.Length > 0)
-            //    {
-            //        var archivoDestino = Guid.NewGuid().ToString().Replace("-", "") + Path.GetExtension(archivoImagen.FileName);
-            //        using (var filestream = new FileStream(Path.Combine(pathDestino, archivoDestino), FileMode.Create))
-            //        {
-            //            archivoImagen.CopyTo(filestream);
-            //            producto.Imagen = archivoDestino;
-            //        }
-            //    }
-            //}
-
+            
             var producto = await _context.productos
                .Include(p => p.categoria)
                .Include(p => p.marca)

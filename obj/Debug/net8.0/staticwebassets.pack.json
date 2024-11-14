@@ -33,6 +33,10 @@
       "PackagePath": "staticwebassets\\imagenes\\logowpp.jpg"
     },
     {
+      "Id": "C:\\Users\\Estudiante\\Desktop\\Jesi\\Videos\\lab4\\AtenasCalzado\\AtenasCalzado\\wwwroot\\imagenes\\lugar.PNG",
+      "PackagePath": "staticwebassets\\imagenes\\lugar.PNG"
+    },
+    {
       "Id": "C:\\Users\\Estudiante\\Desktop\\Jesi\\Videos\\lab4\\AtenasCalzado\\AtenasCalzado\\wwwroot\\imagenes\\productos\\0bf57fbbfa5643b2b82474df169fc2aa.jpeg",
       "PackagePath": "staticwebassets\\imagenes\\productos\\0bf57fbbfa5643b2b82474df169fc2aa.jpeg"
     },
